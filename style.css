@@ -5,7 +5,7 @@ body {
 }
 
 .top-wrapper {
-  background-image: url(../images/top-wrapper-img.jpg);
+  background-image: url(https://syu-h81.github.io/universe-site/top-wrapper-img.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
@@ -71,13 +71,13 @@ body {
 }
 
 .intro-1 {
-  background-image: url(../images/intro-wrapper-img2.jpg);
+  background-image: url(https://syu-h81.github.io/universe-site/intro-wrapper-img2.jpg);
   width: 40%;
   height: auto;
 }
 
 .intro-2 {
-  background-image: url(../images/intro-wrapper-img3.jpg);
+  background-image: url(https://syu-h81.github.io/universe-site/intro-wrapper-img3.jpg);
   width: 40%;
   height: auto;
 }
@@ -91,7 +91,7 @@ body {
 }
 
 .middle-top-wrapper {
-  background-image: url(../images/middle-top-wrapper-img.jpg);
+  background-image: url(https://syu-h81.github.io/universe-site/middle-top-wrapper-img.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 550px;
